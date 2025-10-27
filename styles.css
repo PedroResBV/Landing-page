@@ -129,6 +129,7 @@ button,
     width: 96px;
     border-radius: 0.5em;
     font-weight: 700;
+    border: none;
 }
 
 .info-container {
